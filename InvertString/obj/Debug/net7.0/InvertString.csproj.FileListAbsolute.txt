@@ -1,0 +1,15 @@
+/home/victor/projetos/Target/estagio/InvertString/bin/Debug/net7.0/InvertString
+/home/victor/projetos/Target/estagio/InvertString/bin/Debug/net7.0/InvertString.deps.json
+/home/victor/projetos/Target/estagio/InvertString/bin/Debug/net7.0/InvertString.runtimeconfig.json
+/home/victor/projetos/Target/estagio/InvertString/bin/Debug/net7.0/InvertString.dll
+/home/victor/projetos/Target/estagio/InvertString/bin/Debug/net7.0/InvertString.pdb
+/home/victor/projetos/Target/estagio/InvertString/obj/Debug/net7.0/InvertString.csproj.AssemblyReference.cache
+/home/victor/projetos/Target/estagio/InvertString/obj/Debug/net7.0/InvertString.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/projetos/Target/estagio/InvertString/obj/Debug/net7.0/InvertString.AssemblyInfoInputs.cache
+/home/victor/projetos/Target/estagio/InvertString/obj/Debug/net7.0/InvertString.AssemblyInfo.cs
+/home/victor/projetos/Target/estagio/InvertString/obj/Debug/net7.0/InvertString.csproj.CoreCompileInputs.cache
+/home/victor/projetos/Target/estagio/InvertString/obj/Debug/net7.0/InvertString.dll
+/home/victor/projetos/Target/estagio/InvertString/obj/Debug/net7.0/refint/InvertString.dll
+/home/victor/projetos/Target/estagio/InvertString/obj/Debug/net7.0/InvertString.pdb
+/home/victor/projetos/Target/estagio/InvertString/obj/Debug/net7.0/InvertString.genruntimeconfig.cache
+/home/victor/projetos/Target/estagio/InvertString/obj/Debug/net7.0/ref/InvertString.dll
