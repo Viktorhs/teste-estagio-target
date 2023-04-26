@@ -1,0 +1,15 @@
+/home/victor/projetos/Target/estagio/2-Fibonacci/bin/Debug/net7.0/2-Fibonacci
+/home/victor/projetos/Target/estagio/2-Fibonacci/bin/Debug/net7.0/2-Fibonacci.deps.json
+/home/victor/projetos/Target/estagio/2-Fibonacci/bin/Debug/net7.0/2-Fibonacci.runtimeconfig.json
+/home/victor/projetos/Target/estagio/2-Fibonacci/bin/Debug/net7.0/2-Fibonacci.dll
+/home/victor/projetos/Target/estagio/2-Fibonacci/bin/Debug/net7.0/2-Fibonacci.pdb
+/home/victor/projetos/Target/estagio/2-Fibonacci/obj/Debug/net7.0/2-Fibonacci.csproj.AssemblyReference.cache
+/home/victor/projetos/Target/estagio/2-Fibonacci/obj/Debug/net7.0/2-Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/projetos/Target/estagio/2-Fibonacci/obj/Debug/net7.0/2-Fibonacci.AssemblyInfoInputs.cache
+/home/victor/projetos/Target/estagio/2-Fibonacci/obj/Debug/net7.0/2-Fibonacci.AssemblyInfo.cs
+/home/victor/projetos/Target/estagio/2-Fibonacci/obj/Debug/net7.0/2-Fibonacci.csproj.CoreCompileInputs.cache
+/home/victor/projetos/Target/estagio/2-Fibonacci/obj/Debug/net7.0/2-Fibonacci.dll
+/home/victor/projetos/Target/estagio/2-Fibonacci/obj/Debug/net7.0/refint/2-Fibonacci.dll
+/home/victor/projetos/Target/estagio/2-Fibonacci/obj/Debug/net7.0/2-Fibonacci.pdb
+/home/victor/projetos/Target/estagio/2-Fibonacci/obj/Debug/net7.0/2-Fibonacci.genruntimeconfig.cache
+/home/victor/projetos/Target/estagio/2-Fibonacci/obj/Debug/net7.0/ref/2-Fibonacci.dll
